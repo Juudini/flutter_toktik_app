@@ -1,4 +1,4 @@
-# flutter_toktik_app
+# flutter_toktik_app with clean architecture
 
 <details open> 
   <summary><h2>🧩 Languages & Tools</h2></summary>
@@ -10,9 +10,9 @@
 </p>
 </details>
 
-### Remember add videos into `/assets/videos` in root folder.
+### Please add videos from 1 to 8 in .mp4 format to the `/assets/videos` folder in the root directory.
 
-## 🔗 Links
+You can download high-quality sample videos from [Pexels](https://www.pexels.com/search/videos/vertical/).
 
 <a href="https://www.linkedin.com/in/juandebandi/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-231b2e?style=for-the-badge&logoColor=F8D866&logo=LinkedIn"/></a>
 <a href="https://juandebandi.dev/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=F8D866&logo=link-external"/></a>
